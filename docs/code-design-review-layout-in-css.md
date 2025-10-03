@@ -10,7 +10,7 @@ Vandaag doe je een code review op de CSS van de deeltaak 'layout-in-css' en een 
 
 #### Deeltaak layout-in-css
 
-Deze code-review voer je uit binnen jouw mentor groep; je bent dus met 6 studenten en één mentor. 
+Deze code-review voer je uit aan jouw tafel mét de mentor; je bent dus met 4 studenten en één mentor. 
 
 1. [Zorg dat je DoD's hebt afgerond van de deeltaak](https://github.com/fdnd-task/layout-in-css/blob/main/docs/INSTRUCTIONS.md#definition-of-done). Push je laatste werk naar GitHub, publiceer je site via GitHub Pages en plaats een link bij je repo.
 2. Ga samen met jullie mentor de 9 basic layouts af. Per layout schrijft één student de CSS uitwerking op het whiteboard en laat de breakdownschets zien op de laptop. 
@@ -20,13 +20,14 @@ Deze code-review voer je uit binnen jouw mentor groep; je bent dus met 6 student
 
 #### Leertaak the-client-website
 
-Werk in duo's voor deze code-review; julie doen met 2 studenten minimaal 2 reviews bij een andere student van een andere tafel, en zorg dat je zelf ook 2 reviews krijgt van andere duo's.
+Werk in duo's voor deze code-review; julie doen met 2 studenten minimaal 2 reviews bij een andere student van een andere tafel, en zorg dat je zelf ook 2 reviews krijgt van andere duo's. Mentoren reviewen apart de code van de studenten aan tafel.
 
 1. Pak het ontwerp in de Hifi schets of Figma erbij, en de gemaakte breakdownschets.
 2. Bespreek met elkaar welke Layout Modes geschikt zouden zijn voor de verschillende onderdelen in het ontwerp. Hint 1: Flow Layout, Grid Layout, Flexible Box Layout, Float Layout of Positioned Layout. Hint 2: Layout Modes zijn net als HTML elementen ook te nesten. Je kunt bijvoorbeeld dus een Flexible Box Layout gebruiken _in_ een Grid item.
 3. Bekijk de website en de CSS (via devtools of in Github) en bepaal of de verschillende Layout Modes logisch, duidelijk en bruikbaar zijn opgezet. Schrijf je gedachten in het “Layout in CSS” issue als reactie.
 4. Schrijf verbeteringen of suggesties over de gebruikte CSS ook als reactie in het “Layout in CSS” issue.
 
+<!-- Nog iets toevoegen voor geneste media queries (en Mobile First werken?), uit de workshop van woensdag -->
 
 ### Bronnen
 
