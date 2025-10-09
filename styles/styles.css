@@ -1,15 +1,11 @@
 body{
-    font-family: sans-serif;
-}
-header{
-    
+    font-family: sans-serif;    
 }
 
-main a{
-    decoration: none;
-}
+
+
 nav {
-    background-color: green;
+    background-color: #00696b;
     padding-top: 1em;
     padding-bottom: 1em;
     display: flex;
@@ -20,3 +16,104 @@ nav a{
     color: white;
     text-decoration: none;
 }
+
+footer{
+    background-color: #00696b;
+    width: 100%;
+    padding-bottom: 300px;
+}
+
+footer a h3{
+    color: white;
+    text-decoration: none;
+}
+
+.logo{
+    display: flex;
+    width: 169px;
+    height: 28px;
+    position: relative;
+    margin: 0px 675px;
+}
+
+.contact {
+    display: flex;
+    width: 70px;
+    height:50px;
+    position: relative;
+    margin: 0px 1330px;
+}
+
+.thema {
+    width: 300px;
+    length: 200px;
+}
+
+.profielen{
+    width: 300px;
+    length: 200px;
+}
+
+.nieuws{
+    width: 300px;
+    length: 200px;
+
+}
+
+.bar{
+    background-color: #00696b;
+    width: 100%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.knop{
+    color: white;
+    text-decoration:none;
+    border: 1px solid #0044ff;
+    border-radius: 4px;
+    background-color: #0044ff;
+    padding: 10px 10px;
+    width: 170px;
+}
+
+.hogescholen{
+    display: block;
+    position: static;
+    justify-content: center;
+    padding: 0px 675px;
+}
+
+.scholen{
+    background-color: white;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.scholenfotos{
+    width: 169px;
+    height: 60px;
+
+}
+
+.pijl {
+    width: 50px;
+    height: 50px;
+}
+
+.info{
+    border: 4px solid #88ff00;
+    border-radius: 50px;
+    display: block;
+    justify-content: center;
+    height: 500px;
+    margin-bottom: 200px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #88ff00;
+    background-repeat: no-repeat;
+    margin-top: 140px;   
+}
+
