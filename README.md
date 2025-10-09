@@ -14,15 +14,20 @@ De instructie van deze leertaak staan in de [INSTRUCTIONS](https://github.com/fd
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+-Design in figma
+-website laten zien
+-Responsive website
+-code laten zien
+-welke feedback ik heb ontvangen
+-waar ik aan wil werken
+-feedback vragen
+(https://yassir713.github.io/the-client-website/)
 
-## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
 
-
+## Bronnen
+https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+Ik heb eigenlijk alleen maar feedback en hulp gekregen van anderen. Niet echt bronnen gebruikt, alleen voor mediaqueries. En de rest zelf gedaan.
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
